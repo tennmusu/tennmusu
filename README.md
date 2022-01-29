@@ -1,7 +1,6 @@
 大学３年生です。
 
-[![tennmusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tennmusu&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tennmusu&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+[![tennmusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tennmusu&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tennmusu&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tennmusu)](https://github.com/ryo-ma/github-profile-trophy)
 
